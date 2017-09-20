@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/uvcoder2/AndroidStudioProjects/JustJava/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/uvcoder2/AndroidStudioProjects/JustJava/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

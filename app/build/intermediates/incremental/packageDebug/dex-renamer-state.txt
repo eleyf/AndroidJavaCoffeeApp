@@ -1,0 +1,7 @@
+#Wed Sep 20 00:34:39 CDT 2017
+base.0=/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_19e59eae87a4c17ac397fba9374121cbdf8650ad
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dbce209e13f2c792af2b576e1ab4f7903bbee3e/classes.dex
+base.1=/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dbce209e13f2c792af2b576e1ab4f7903bbee3e
+file.0=/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_19e59eae87a4c17ac397fba9374121cbdf8650ad/classes.dex

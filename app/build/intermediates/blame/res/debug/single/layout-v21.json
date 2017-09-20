@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/uvcoder2/.android/build-cache/a90c92a321b041016ec96534c9bca5749fa57d8f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/uvcoder2/.android/build-cache/a90c92a321b041016ec96534c9bca5749fa57d8f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/uvcoder2/.android/build-cache/a90c92a321b041016ec96534c9bca5749fa57d8f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/uvcoder2/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/uvcoder2/.android/build-cache/a90c92a321b041016ec96534c9bca5749fa57d8f/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
